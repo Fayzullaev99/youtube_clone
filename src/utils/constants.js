@@ -1,3 +1,4 @@
+import AutoStoriesIcon from '@mui/icons-material/AutoStories';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import HomeIcon from '@mui/icons-material/Home';
 import CodeIcon from '@mui/icons-material/Code';
@@ -16,7 +17,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Quran', icon: <AutoStoriesIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -35,7 +36,7 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
+export const demoChannelUrl = '/channel/UCYNqVnOAFn_RSJTQgV1HuXg';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
 export const demoChannelTitle = 'Sanjar Fayzullaev';
 export const demoVideoTitle = 'Create various Projects in REACT.JS - Full Course | RapidAPI';
